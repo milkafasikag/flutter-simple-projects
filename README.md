@@ -4,4 +4,4 @@
 
 ![image](https://user-images.githubusercontent.com/119007476/236648466-9531aa80-3394-48f0-b79e-d2b03e9546a3.png)
 ![image](https://user-images.githubusercontent.com/119007476/236648414-2c2f140d-1bbf-4e33-98ac-d94387d5cfd2.png)
-the 1st 4dar files in lib folder are for the game(main.dart,bat.dart,ball.dart,pong.dart)
+the 1st 4dart files in lib folder are for the game(main.dart,bat.dart,ball.dart,pong.dart) the other for the timer app
